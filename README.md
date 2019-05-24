@@ -11,6 +11,8 @@ _([Print out a marker](assets/hiroMarker.pdf) and try it for yourself [open this
 
 Modern Times is an examination of contemporary social issues. View the 3D animation on [the DML's Glitch page](https://hand-reaching-orbit.glitch.me).
 
+![Animated loop of diembodied hand reaching up through a hole in the floor toward a cellphone](images/reachinghand.gif)
+
 ### Destroyer of Trees
 Ron Homer
 

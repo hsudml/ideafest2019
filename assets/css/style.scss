@@ -2,11 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css?family=Lobster|Roboto:300,400,500,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P|Roboto:400,500,700,900&display=swap');
 @import url("https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css");
 
 body {
-  color: #fff;
+  color: #333;
   background-image: url(images/spaceStation.svg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -19,7 +19,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-family: lobster;
+  font-family: "Press Start 2P";
 }
 
 section h1 {
@@ -33,25 +33,20 @@ section h2 {
 
 section h3 {
   font-size: 4rem;
-  font-family: lobster;
+  font-family: "Press Start 2P";
   color: rgba(255,255,255,0.8);
   text-align: center;
   margin-top: 2rem;
 }
 
-a, a small {
-    color: rgba(248, 231, 26, 0.8);
-}
-
 a:hover, a small:hover {
-    color: rgba(248, 231, 26, 1);
   font-weight: 400;
 }
 
 .backdrop {
     position: fixed;
-    font-family: lobster;
-    color: rgba(255,255,255,0.1);
+    font-family: "Press Start 2P";
+    color: rgba(251, 182, 193,0.1);
     font-size: 15vw;
     z-index: -1;
     text-shadow: 2vw 2vw 3px rgba(0,0,0,0.05);

@@ -7,12 +7,23 @@
 
 body {
   color: #333;
+  background-color: #fff;
+  font-size: 18px;
+}
+
+body::after {
+  content: "";
   background-image: url(../../images/spaceStation.svg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  background-color: #fff;
-  font-size: 18px;
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -54,9 +65,9 @@ a:hover, a small:hover {
     position: fixed;
     font-family: "Press Start 2P";
     color: rgba(251, 182, 193,0.1);
-    font-size: 15vw;
+    font-size: 7vw;
     z-index: -1;
-    text-shadow: 2vw 2vw 3px rgba(0,0,0,0.05);
+    text-shadow: 2vw 2vw 3px rgba(0,0,0,0.02);
     transform: rotate(-2deg);
     text-align: center;
     width: 100%;

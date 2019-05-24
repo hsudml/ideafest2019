@@ -44,7 +44,7 @@ _HSU Gaming Club Introduces a Flight Simulator to Campus_
 
 The PC Gaming club started this project in fall 2018, fundraising and obtaining donations from community members. In spring 2019 the Airplane Flight Simulator became a reality and is open to all students and community members in the HSU Library. Library guests can practice and learn the basics of flying an airplane. Please let us show you how to start the engine, set the flaps and take flight.
 
-<iframe width="100%" height="480px" src="https://poly.google.com/view/4-Kti_Mzyqa/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+<div class="videoWrapper"><iframe width="100%" height="480px" src="https://poly.google.com/view/4-Kti_Mzyqa/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe></div>
 
 ### Virtual Exercise
 **Lukas Coppen, M.S. Kinesiology**
@@ -53,7 +53,7 @@ The PC Gaming club started this project in fall 2018, fundraising and obtaining 
 
 Beginning in summer, 2018, Dr. Kwon and the Human Performance Lab created a [virtual reality lab](Virtual Exercise Physiology Lab) using 360-degree video. The virtual lab allows viewers to experience what it is like to be in the Human Performance Lab to conduct wingate tests and more. Stop by the VR Station to experience the lab for yourself!
 
-<iframe width="100%" src="https://www.youtube.com/embed/Hr_G41VJZz8?list=PLwpq99KyPky-unsKGjQUgA0hPnldS-UuL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videoWrapper"><iframe width="100%" src="https://www.youtube.com/embed/Hr_G41VJZz8?list=PLwpq99KyPky-unsKGjQUgA0hPnldS-UuL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 > Created using the GoPro Fusion camera, and hosted on YouTube.
 

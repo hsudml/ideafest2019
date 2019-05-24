@@ -49,7 +49,7 @@ Lukas Coppen, M.S. Kinesiology Dr. Young Sub Kwon, Human Performance Lab Directo
 
 Beginning in summer, 2018, Dr. Kwon and the Human Performance Lab created a [virtual reality lab](Virtual Exercise Physiology Lab) using 360-degree video. The virtual lab allows viewers to experience what it is like to be in the Human Performance Lab to conduct wingate tests and more. Stop by the VR Station to experience the lab for yourself!
 
-<iframe width="962" height="566" src="https://www.youtube.com/embed/Hr_G41VJZz8?list=PLwpq99KyPky-unsKGjQUgA0hPnldS-UuL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/Hr_G41VJZz8?list=PLwpq99KyPky-unsKGjQUgA0hPnldS-UuL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > Created using the GoPro Fusion camera, and hosted on YouTube.
 

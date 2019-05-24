@@ -20,17 +20,17 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-family: "Press Start 2P";
-  color: rgba(249, 9, 9, 0.74);
-  text-shadow: 5px 5px 2px rgba(14, 241, 247, 0.67);
 }
 
 section h1 {
   font-size: 4rem;
+  color: rgba(249, 9, 9, 0.74);
+  text-shadow: 5px 5px 2px rgba(14, 241, 247, 0.67);
 }
 
 section h2 {
   font-size: 2rem;
-  color: #ddd;
+  color: #666;
 }
 
 section h3 {
@@ -41,8 +41,12 @@ section h3 {
   margin-top: 2rem;
 }
 
+a, a small {
+  font-weight: 600;
+}
+
 a:hover, a small:hover {
-  font-weight: 400;
+  font-weight: 600;
 }
 
 .backdrop {

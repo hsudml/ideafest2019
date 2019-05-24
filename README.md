@@ -1,7 +1,6 @@
 # ideaFest 2019
 
 ## VR Station Showcase
-Details
 
 ## Augmented Reality (AR)
 
@@ -49,6 +48,15 @@ Beginning in summer, 2018, Dr. Kwon and the Human Performance Lab created a [vir
 <iframe width="962" height="566" src="https://www.youtube.com/embed/Hr_G41VJZz8?list=PLwpq99KyPky-unsKGjQUgA0hPnldS-UuL" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > Created using the GoPro Fusion camera, and hosted on YouTube.
+
+## Virtual Reality Tools & Resources
+
++ [Glitch](https://glitch.com/) -- Web hosting and development platform centered around remixing and collaboration. Integrates with GitHub. Publish instantly. Plenty of A-frame templates to remix.
++ [Aframe](https://aframe.io/) -- Create web-based VR using the most cross-platform system to date. Coding skills required: basic HTML to get started, JS expertise for a deep dive.
++ [Tinkercad](https://www.tinkercad.com/) -- Create web-based 3D models. Features are limited, but simple projects are a snap and it's an easy to use gateway into creating 3D models.
++ [Blender](https://www.blender.org/) -- Free & Open Source 3D creation. Free to use for any purpose, forever.
+Also great for video editing!
++ [Sketchfab](https://sketchfab.com/) -- Host your 3D models and download remixable models for your own project. Supports animations and augmented reality previews (via the mobile app).
 
 ---
 ## Other Links

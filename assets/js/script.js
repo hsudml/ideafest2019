@@ -1,7 +1,7 @@
 $(function() {
 
 function backdropCreate(){
-  var title = document.getElementById('ideafest-2018').innerText;
+  var title = document.getElementById('ideafest-2019').innerText;
   var backdrop = document.createElement("div");   
   backdrop.className += "backdrop";
   backdrop.innerHTML = title; 

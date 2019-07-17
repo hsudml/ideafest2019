@@ -66,6 +66,11 @@ Beginning in summer, 2018, Dr. Kwon and the Human Performance Lab created a [vir
 Also great for video editing!
 + [Sketchfab](https://sketchfab.com/) -- Host your 3D models and download remixable models for your own project. Supports animations and augmented reality previews (via the mobile app).
 
+### Tutorials
+
++ [VR Madness!!](https://glitch.com/~hsulibrary-vr-beginner) -- You can create a VR project in less than an hour using Glitch and Aframe!
++ [AR Madness!!](https://glitch.com/~hsulibrary-ar-beginner) -- Create an AR project that works on any smartphone!
+
 ---
 ## Other Links
 Humboldt State University Library | [Digital Media Lab](http://libguides.humboldt.edu/dml)
